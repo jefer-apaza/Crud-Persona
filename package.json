@@ -39,5 +39,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jefer-apaza/Crud-Persona.git"
+  },
+  "author": "Hernan Jheferson Apaza Arpasi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jefer-apaza/Crud-Persona/issues"
+  },
+  "homepage": "https://github.com/jefer-apaza/Crud-Persona#readme"
 }
